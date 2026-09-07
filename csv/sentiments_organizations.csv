@@ -1,109 +1,108 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Cookies,Cookies,ORG,0.7727272727272724,0.0,de,15.400000000000004
+Cookies,Cookies,ORG,0.773255813953488,0.0,de,17.200000000000003
 EU,EU,ORG,0.11437908496732023,0.22875816993464046,de,15.300000000000004
-CDU,CDU,ORG,0.34666666666666657,0.08333333333333331,de,10.000000000000002
-https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,6.4
+CDU,CDU,ORG,0.2937853107344632,0.07062146892655365,de,11.800000000000002
+DWD,DWD,ORG,-0.09174311926605502,0.0,de,10.900000000000002
+https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,7.300000000000001
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.04687500000000001,0.0,de,6.4
 BASIC thinking,BASIC thinking,ORG,0.0,0.2173913043478261,de,4.6
 Rekorde,Rekorde,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
-picture alliance,picture alliance,ORG,0.0,0.2702702702702703,de,3.6999999999999997
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.5405405405405406,0.0,de,3.6999999999999997
 Neptun-Werft,Neptun-Werft,ORG,-0.1891891891891892,0.0,de,3.6999999999999997
-Stadtwerke Gießen,Stadtwerke Gießen,ORG,1.0714285714285714,0.0,de,2.8
-CSU,CSU,ORG,0.25,0.0,de,2.8
-BASF,BASF,ORG,0.0,0.0,de,2.8
-TTS-Player,TTS-Player,ORG,0.35714285714285715,0.0,de,2.8
-Gewerkschaften,Gewerkschaften,ORG,0.0,0.35714285714285715,de,2.8
-DWD,DWD,ORG,-0.35714285714285715,0.0,de,2.8
+picture alliance,picture alliance,ORG,0.0,0.2702702702702703,de,3.6999999999999997
 EWE,EWE,ORG,0.0,0.0,de,2.8
-WMO,WMO,ORG,0.0,0.0,de,2.8
+TTS-Player,TTS-Player,ORG,0.35714285714285715,0.0,de,2.8
 SANY,SANY,ORG,0.0,0.0,de,2.8
 SciLogs,SciLogs,ORG,0.35714285714285715,0.35714285714285715,de,2.8
+BASF,BASF,ORG,0.0,0.0,de,2.8
+Die Grünen,Die Grünen,ORG,0.35714285714285715,0.0,de,2.8
+PFAS,PFAS,ORG,-0.4821428571428572,0.17857142857142858,de,2.8
+WMO,WMO,ORG,0.0,0.0,de,2.8
+Gewerkschaften,Gewerkschaften,ORG,0.0,0.35714285714285715,de,2.8
+Stadtwerke Gießen,Stadtwerke Gießen,ORG,1.0714285714285714,0.0,de,2.8
 AfD,AfD,ORG,0.0,0.0,de,2.8
 OECD,OECD,ORG,-0.3035714285714286,0.0,de,2.8
-PFAS,PFAS,ORG,-0.4821428571428572,0.17857142857142858,de,2.8
-Austrian World Summit,Austrian World Summit,ORG,0.3684210526315789,0.0,de,1.9
-UNICEF,UNICEF,ORG,-0.8157894736842105,0.0,de,1.9
-DHL,DHL,ORG,0.44736842105263164,0.0,de,1.9
-Grünen,Grünen,ORG,0.3684210526315789,0.0,de,1.9
-Grüne,Grüne,ORG,0.0,0.0,de,1.9
-künf…,künf…,ORG,0.0,0.0,de,1.9
-Nachtfrost,Nachtfrost,ORG,0.0,0.0,de,1.9
-Europäische Gewerkschaftsbund,Europäische Gewerkschaftsbund,ORG,0.0,0.0,de,1.9
-Deutsche Bundesstiftung Umwelt,Deutsche Bundesstiftung Umwelt,ORG,-0.3684210526315789,0.0,de,1.9
-Ltd,Ltd,ORG,0.0,0.0,de,1.9
-SANY Group,SANY Group,ORG,0.0,0.0,de,1.9
-Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.5263157894736842,0.0,de,1.9
+CSU,CSU,ORG,0.25,0.0,de,2.8
 Zentrums f…,Zentrums f…,ORG,0.0,0.0,de,1.9
-Bundestag,Bundestag,ORG,-0.07894736842105264,0.0,de,1.9
-RKI,RKI,ORG,0.0,0.0,de,1.9
-gekappte Heizungsförderung,gekappte Heizungsförderung,ORG,0.0,0.0,de,1.9
-F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.9
-CSD,CSD,ORG,-0.5263157894736842,0.2631578947368421,de,1.9
-BUND,BUND,ORG,-0.3684210526315789,0.0,de,1.9
 SPD,SPD,ORG,-0.8947368421052632,0.0,de,1.9
-Rassemblement national,Rassemblement national,ORG,0.5263157894736842,0.2631578947368421,de,1.9
+Salzburg AG,Salzburg AG,ORG,0.7368421052631579,0.0,de,1.9
+künf…,künf…,ORG,0.0,0.0,de,1.9
+Grüne,Grüne,ORG,0.0,0.0,de,1.9
+Grünen,Grünen,ORG,0.3684210526315789,0.0,de,1.9
+DHL,DHL,ORG,0.44736842105263164,0.0,de,1.9
+Sommer-Bilanz,Sommer-Bilanz,ORG,0.0,0.0,de,1.9
 IBM,IBM,ORG,0.4473684210526316,0.0,de,1.9
-dpa,dpa,ORG,0.0,0.0,de,1.9
+UNICEF,UNICEF,ORG,-0.8157894736842105,0.0,de,1.9
+Rassemblement national,Rassemblement national,ORG,0.5263157894736842,0.2631578947368421,de,1.9
+Austrian World Summit,Austrian World Summit,ORG,0.3684210526315789,0.0,de,1.9
+Ltd,Ltd,ORG,0.0,0.0,de,1.9
+Deutsche Bundesstiftung Umwelt,Deutsche Bundesstiftung Umwelt,ORG,-0.3684210526315789,0.0,de,1.9
+BUND,BUND,ORG,-0.3684210526315789,0.0,de,1.9
+CSD,CSD,ORG,-0.5263157894736842,0.2631578947368421,de,1.9
+SANY Group,SANY Group,ORG,0.0,0.0,de,1.9
+F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.9
+gekappte Heizungsförderung,gekappte Heizungsförderung,ORG,0.0,0.0,de,1.9
+RKI,RKI,ORG,0.0,0.0,de,1.9
+Europäische Gewerkschaftsbund,Europäische Gewerkschaftsbund,ORG,0.0,0.0,de,1.9
 Fu…,Fu…,ORG,0.0,0.0,de,1.9
-Shutterstock.com,Shutterstock.com,ORG,-0.5263157894736842,0.0,de,1.9
-SZ,SZ,ORG,0.0,0.0,de,1.9
+Deutschland,Deutschland,ORG,0.3684210526315789,0.0,de,1.9
+Bundestag,Bundestag,ORG,-0.07894736842105264,0.0,de,1.9
+dpa,dpa,ORG,0.0,0.0,de,1.9
+Nachtfrost,Nachtfrost,ORG,0.0,0.0,de,1.9
+BP,BP,ORG,0.0,0.0,de,1.9
 NDR,NDR,ORG,0.0,0.0,de,1.9
 Bund,Bund,ORG,-0.18421052631578946,0.2631578947368421,de,1.9
-OOI,OOI,ORG,-0.3684210526315789,0.0,de,1.9
-NSF,NSF,ORG,-0.3684210526315789,0.0,de,1.9
-BP,BP,ORG,0.0,0.0,de,1.9
-EWP,EWP,ORG,0.3684210526315789,0.0,de,1.9
-Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,ORG,-0.3684210526315789,0.0,de,1.9
 AUVA,AUVA,ORG,0.0,0.0,de,1.9
-Reformpläne der Bundeswirtschaftsministerin,Reformpläne der Bundeswirtschaftsministerin,ORG,0.0,0.0,de,1.9
+Shutterstock.com,Shutterstock.com,ORG,-0.5263157894736842,0.0,de,1.9
+OOI,OOI,ORG,-0.3684210526315789,0.0,de,1.9
 Reiches Energie-Reformpläne,Reiches Energie-Reformpläne,ORG,0.7368421052631579,0.0,de,1.9
-Wi…,Wi…,ORG,0.0,0.0,de,1.0
-Genehmigungsf…,Genehmigungsf…,ORG,0.0,0.0,de,1.0
-VKU,VKU,ORG,0.0,0.0,de,1.0
-Landwir…,Landwir…,ORG,0.0,0.0,de,1.0
-American Public Power Association,American Public Power Association,ORG,0.0,0.0,de,1.0
-Chinas,Chinas,ORG,0.0,0.0,de,1.0
-Fortschrit…,Fortschrit…,ORG,0.0,0.0,de,1.0
-Volkswagen ha…,Volkswagen ha…,ORG,0.0,0.0,de,1.0
-Stadtwerke Osnabrück,Stadtwerke Osnabrück,ORG,0.0,0.0,de,1.0
+NSF,NSF,ORG,-0.3684210526315789,0.0,de,1.9
+Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,ORG,-0.3684210526315789,0.0,de,1.9
+SZ,SZ,ORG,0.0,0.0,de,1.9
+Reformpläne der Bundeswirtschaftsministerin,Reformpläne der Bundeswirtschaftsministerin,ORG,0.0,0.0,de,1.9
+EWP,EWP,ORG,0.3684210526315789,0.0,de,1.9
+Bundesverband Solarwirtschaft,Bundesverband Solarwirtschaft,ORG,0.0,0.0,de,1.0
+BMW,BMW,ORG,0.0,0.0,de,1.0
+Deutschen Industrie- und Handelskammer,Deutschen Industrie- und Handelskammer,ORG,0.0,0.0,de,1.0
 Boulevard Österreichs Heizungsgesetz,Boulevard Österreichs Heizungsgesetz,ORG,0.0,0.0,de,1.0
 EU-Klimaziel,EU-Klimaziel,ORG,0.0,0.0,de,1.0
+Austrocknun…,Austrocknun…,ORG,0.0,0.0,de,1.0
 Heizungsart,Heizungsart,ORG,0.0,0.0,de,1.0
-BMW,BMW,ORG,0.0,0.0,de,1.0
+photothek.de,photothek.de,ORG,0.0,0.0,de,1.0
 Senats,Senats,ORG,0.0,0.0,de,1.0
+riecht.2,riecht.2,ORG,1.0,0.0,de,1.0
 News Avoidance,News Avoidance,ORG,0.0,0.0,de,1.0
-Verband Kommunaler Unternehmen,Verband Kommunaler Unternehmen,ORG,0.0,0.0,de,1.0
-Linz,Linz,ORG,0.0,0.0,de,1.0
-Verbands…,Verbands…,ORG,-1.0,0.0,de,1.0
+EEG,EEG,ORG,0.7,0.0,de,1.0
+Chef…,Chef…,ORG,0.0,0.0,de,1.0
+Zentrum für Synthetische Mikrobiologie,Zentrum für Synthetische Mikrobiologie,ORG,0.0,0.0,de,1.0
+Fortschrit…,Fortschrit…,ORG,0.0,0.0,de,1.0
+Volkswagen ha…,Volkswagen ha…,ORG,0.0,0.0,de,1.0
+VKU,VKU,ORG,0.0,0.0,de,1.0
+American Public Power Association,American Public Power Association,ORG,0.0,0.0,de,1.0
+Stadtwerke-Tochter Energie und Wasser Potsdam,Stadtwerke-Tochter Energie und Wasser Potsdam,ORG,0.0,0.0,de,1.0
+Brunn…,Brunn…,ORG,0.0,0.0,de,1.0
 Münchner Stadtwerke,Münchner Stadtwerke,ORG,0.7,0.0,de,1.0
-Berliner Bürokratie-Irrsinn,Berliner Bürokratie-Irrsinn,ORG,0.0,0.0,de,1.0
-Deutschland,Deutschland,ORG,0.0,0.0,de,1.0
-Wiens,Wiens,ORG,0.0,0.0,de,1.0
-Alternative für Deutschland,Alternative für Deutschland,ORG,0.0,0.0,de,1.0
-Partei Alternative,Partei Alternative,ORG,0.0,0.0,de,1.0
-Deutschla…,Deutschla…,ORG,0.0,0.0,de,1.0
-Bienenpopulation,Bienenpopulation,ORG,0.0,0.0,de,1.0
 Boku Wien,Boku Wien,ORG,0.0,0.0,de,1.0
-Bundesverband Solarwirtschaft,Bundesverband Solarwirtschaft,ORG,0.0,0.0,de,1.0
 EnBW,EnBW,ORG,0.7,0.0,de,1.0
 Energieversorgers EnBW,Energieversorgers EnBW,ORG,0.0,0.0,de,1.0
 Stadtwerke-Tochter EWP,Stadtwerke-Tochter EWP,ORG,0.0,0.0,de,1.0
 Europäischen Investitionsbank,Europäischen Investitionsbank,ORG,0.7,0.0,de,1.0
-Stadtwerke-Tochter Energie und Wasser Potsdam,Stadtwerke-Tochter Energie und Wasser Potsdam,ORG,0.0,0.0,de,1.0
 geschätz…,geschätz…,ORG,0.0,0.0,de,1.0
+Landwir…,Landwir…,ORG,0.0,0.0,de,1.0
+Wiens,Wiens,ORG,0.0,0.0,de,1.0
+Linz,Linz,ORG,0.0,0.0,de,1.0
+Verbands…,Verbands…,ORG,-1.0,0.0,de,1.0
+Stadtwerke Osnabrück,Stadtwerke Osnabrück,ORG,0.0,0.0,de,1.0
+Verband Kommunaler Unternehmen,Verband Kommunaler Unternehmen,ORG,0.0,0.0,de,1.0
 D…,D…,ORG,0.0,0.0,de,1.0
-riecht.2,riecht.2,ORG,1.0,0.0,de,1.0
-photothek.de,photothek.de,ORG,0.0,0.0,de,1.0
-Zentrum für Synthetische Mikrobiologie,Zentrum für Synthetische Mikrobiologie,ORG,0.0,0.0,de,1.0
-weiterlese…,weiterlese…,ORG,0.0,0.0,de,1.0
-CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1.0
-ITER,ITER,ORG,0.0,0.0,de,1.0
-sc…,sc…,ORG,0.0,0.0,de,1.0
+Genehmigungsf…,Genehmigungsf…,ORG,0.0,0.0,de,1.0
+DIHK…,DIHK…,ORG,0.0,0.0,de,1.0
+EU-Klimadienstes,EU-Klimadienstes,ORG,0.0,0.0,de,1.0
+Wi…,Wi…,ORG,0.0,0.0,de,1.0
 AMOC,AMOC,ORG,0.7,0.0,de,1.0
-Atla…,Atla…,ORG,0.0,0.0,de,1.0
-Energi…,Energi…,ORG,0.0,0.0,de,1.0
 US-Forschungseinrichtungen,US-Forschungseinrichtungen,ORG,0.85,0.0,de,1.0
+weiterlese…,weiterlese…,ORG,0.0,0.0,de,1.0
 Cleveland Clinic,Cleveland Clinic,ORG,0.0,0.0,de,1.0
-Schu…,Schu…,ORG,0.0,0.0,de,1.0
 Stiftung Preußische Schlösser und Gärten,Stiftung Preußische Schlösser und Gärten,ORG,1.0,0.0,de,1.0
 SPSG,SPSG,ORG,1.0,0.0,de,1.0
 klima­b…,klima­b…,ORG,1.0,0.0,de,1.0
@@ -111,38 +110,40 @@ Bayer,Bayer,ORG,0.0,0.0,de,1.0
 E…,E…,ORG,0.0,0.0,de,1.0
 SvenSimon,SvenSimon,ORG,0.0,0.0,de,1.0
 Coalburn 1,Coalburn 1,ORG,0.0,0.0,de,1.0
-DW,DW,ORG,0.0,0.0,de,1.0
-Benziner,Benziner,ORG,1.0,0.0,de,1.0
-Chef…,Chef…,ORG,0.0,0.0,de,1.0
-Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,1.0
-EEG,EEG,ORG,0.7,0.0,de,1.0
-Infratest d…,Infratest d…,ORG,0.0,0.0,de,1.0
-Austrocknun…,Austrocknun…,ORG,0.0,0.0,de,1.0
-Deutschen Industrie- und Handelskammer,Deutschen Industrie- und Handelskammer,ORG,0.0,0.0,de,1.0
-DIHK…,DIHK…,ORG,0.0,0.0,de,1.0
+Münch Energie,Münch Energie,ORG,0.0,0.0,de,1.0
+Trump,Trump,ORG,-0.7,0.0,de,1.0
+Energi…,Energi…,ORG,0.0,0.0,de,1.0
+…,…,ORG,0.0,0.0,de,1.0
+Agora Verkehrswende,Agora Verkehrswende,ORG,-1.0,0.0,de,1.0
+Sachsen-Anhal…,Sachsen-Anhal…,ORG,0.0,0.0,de,1.0
+Denkfabrik Agora Verkehrswende,Denkfabrik Agora Verkehrswende,ORG,0.0,0.0,de,1.0
+Atla…,Atla…,ORG,0.0,0.0,de,1.0
+Unterneh…,Unterneh…,ORG,0.0,0.0,de,1.0
 China,China,ORG,0.0,0.0,de,1.0
+sc…,sc…,ORG,0.0,0.0,de,1.0
 DIHK s…,DIHK s…,ORG,0.15000000000000002,0.0,de,1.0
+Deutschla…,Deutschla…,ORG,0.0,0.0,de,1.0
+Bund für Umwelt und Naturschutz,Bund für Umwelt und Naturschutz,ORG,0.0,0.0,de,1.0
 Bundeskabinett,Bundeskabinett,ORG,-0.15000000000000002,0.0,de,1.0
-Kohleland Polen,Kohleland Polen,ORG,0.0,0.0,de,1.0
 kl…,kl…,ORG,0.0,0.0,de,1.0
 is a schware Partie,is a schware Partie,ORG,0.0,0.0,de,1.0
 Deutschen Inst…,Deutschen Inst…,ORG,0.0,0.0,de,1.0
-Trump,Trump,ORG,-0.7,0.0,de,1.0
 Bund für die EEG-Förderung,Bund für die EEG-Förderung,ORG,0.0,0.0,de,1.0
 Deutschen Alpenvereins,Deutschen Alpenvereins,ORG,-1.0,0.0,de,1.0
 DAV,DAV,ORG,-1.0,0.0,de,1.0
-ARD-Deutschlandtrend,ARD-Deutschlandtrend,ORG,0.0,0.0,de,1.0
-AMOC-Strömung,AMOC-Strömung,ORG,0.0,0.0,de,1.0
-Brunn…,Brunn…,ORG,0.0,0.0,de,1.0
-Schweizer AKWs,Schweizer AKWs,ORG,0.0,0.0,de,1.0
-Solarenergi…,Solarenergi…,ORG,0.0,0.0,de,1.0
-Hamburger Energienetzen,Hamburger Energienetzen,ORG,0.0,0.0,de,1.0
-Die Grünen,Die Grünen,ORG,1.0,0.0,de,1.0
-BaWü,BaWü,ORG,0.0,0.0,de,1.0
+Kohleland Polen,Kohleland Polen,ORG,0.0,0.0,de,1.0
+Benziner,Benziner,ORG,1.0,0.0,de,1.0
+Schu…,Schu…,ORG,0.0,0.0,de,1.0
+DW,DW,ORG,0.0,0.0,de,1.0
+Qnetic erri…,Qnetic erri…,ORG,0.0,0.0,de,1.0
+CHROMORANGE,CHROMORANGE,ORG,0.0,0.0,de,1.0
+ITER,ITER,ORG,0.0,0.0,de,1.0
+Bienenpopulation,Bienenpopulation,ORG,0.0,0.0,de,1.0
+Wasser Potsdam,Wasser Potsdam,ORG,0.7,0.0,de,1.0
+Partei Alternative,Partei Alternative,ORG,0.0,0.0,de,1.0
 Motor für Wirtschaft,Motor für Wirtschaft,ORG,0.7,0.0,de,1.0
-s…,s…,ORG,0.0,0.0,de,1.0
-Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
-Solarmodule,Solarmodule,ORG,1.0,0.0,de,1.0
+ei…,ei…,ORG,1.0,0.0,de,1.0
+EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1.0
 Stiftu…,Stiftu…,ORG,0.0,0.0,de,1.0
 Hitze,Hitze,ORG,0.0,0.0,de,1.0
 Leverkusen-Star,Leverkusen-Star,ORG,0.0,0.0,de,1.0
@@ -152,64 +153,72 @@ Magenta TV,Magenta TV,ORG,0.0,0.0,de,1.0
 Seatt…,Seatt…,ORG,0.0,0.0,de,1.0
 Schweizer Parlament,Schweizer Parlament,ORG,0.0,0.0,de,1.0
 Schweizer Parlaments,Schweizer Parlaments,ORG,0.7,0.0,de,1.0
-UNICEF-Studie,UNICEF-Studie,ORG,0.0,0.0,de,1.0
-China Ländern …,China Ländern …,ORG,0.0,0.0,de,1.0
-Sipa USA,Sipa USA,ORG,0.0,0.0,de,1.0
-Energy Sharing,Energy Sharing,ORG,0.0,0.0,de,1.0
-Nachse…,Nachse…,ORG,0.7,0.0,de,1.0
-Grundwasserstände,Grundwasserstände,ORG,-0.7,0.0,de,1.0
-Z…,Z…,ORG,-1.0,0.0,de,1.0
-EU-Klimadienstes,EU-Klimadienstes,ORG,0.0,0.0,de,1.0
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1.0
-Spektrum.de,Spektrum.de,ORG,0.0,0.0,de,1.0
-Rio Tinto Lithium,Rio Tinto Lithium,ORG,0.35,0.0,de,1.0
-ge…,ge…,ORG,0.0,0.0,de,1.0
-EU-Kommission,EU-Kommission,ORG,0.0,0.0,de,1.0
-Online-Magazin,Online-Magazin,ORG,-0.7,0.0,de,1.0
-die Grünen,die Grünen,ORG,0.0,0.0,de,1.0
-Ausbauziel…,Ausbauziel…,ORG,0.0,0.0,de,1.0
-bayerisc…,bayerisc…,ORG,0.0,0.0,de,1.0
-DHL-Konzern,DHL-Konzern,ORG,0.0,0.0,de,1.0
-ei…,ei…,ORG,1.0,0.0,de,1.0
-sp…,sp…,ORG,0.35,0.0,de,1.0
 Nationalrat,Nationalrat,ORG,0.7,0.0,de,1.0
 Rechenzentrum Green Rocks,Rechenzentrum Green Rocks,ORG,0.0,0.0,de,1.0
-University of Roches…,University of Roches…,ORG,0.0,0.0,de,1.0
-LumenHaus,LumenHaus,ORG,0.0,0.0,de,1.0
-ZDF-Meteorologe Özden Terli,ZDF-Meteorologe Özden Terli,ORG,0.0,0.0,de,1.0
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,0.0,0.0,de,1.0
-Klimakrise,Klimakrise,ORG,0.0,0.0,de,1.0
-TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
-Spitzenwert…,Spitzenwert…,ORG,0.0,0.0,de,1.0
-KOMMENTAR,KOMMENTAR,ORG,0.0,0.0,de,1.0
-Landesverteidigu…,Landesverteidigu…,ORG,0.0,0.0,de,1.0
-MUNICH,MUNICH,ORG,0.0,0.0,de,1.0
-Live…,Live…,ORG,0.0,0.0,de,1.0
-Landg…,Landg…,ORG,0.7,0.0,de,1.0
-Universität Stanford,Universität Stanford,ORG,0.0,0.0,de,1.0
-Sa…,Sa…,ORG,-1.0,0.0,de,1.0
-Wasser Potsdam,Wasser Potsdam,ORG,0.7,0.0,de,1.0
-Freien Wählern,Freien Wählern,ORG,0.7,0.0,de,1.0
-deutschen Energiemarktes,deutschen Energiemarktes,ORG,0.0,0.0,de,1.0
-Offshore-Branche,Offshore-Branche,ORG,0.0,0.0,de,1.0
-Verb…,Verb…,ORG,0.0,0.0,de,1.0
-Rheinland-Pfalz  +++  ,Rheinland-Pfalz  +++  ,ORG,0.0,0.0,de,1.0
-GEO,GEO,ORG,1.0,0.0,de,1.0
-Hitzewe…,Hitzewe…,ORG,0.0,0.0,de,1.0
-Uni Klagenfurt,Uni Klagenfurt,ORG,0.0,0.0,de,1.0
+Solarenergi…,Solarenergi…,ORG,0.0,0.0,de,1.0
+BaWü,BaWü,ORG,0.0,0.0,de,1.0
+Deutschen Presse-…,Deutschen Presse-…,ORG,0.0,0.0,de,1.0
 Ankara-Programm für die deutsche Wirt…,Ankara-Programm für die deutsche Wirt…,ORG,0.0,0.0,de,1.0
+s…,s…,ORG,0.0,0.0,de,1.0
+bayerisc…,bayerisc…,ORG,0.0,0.0,de,1.0
+Alternative für Deutschland,Alternative für Deutschland,ORG,0.0,0.0,de,1.0
+Hamburger Energienetzen,Hamburger Energienetzen,ORG,0.0,0.0,de,1.0
+Grundwasserstände,Grundwasserstände,ORG,-0.7,0.0,de,1.0
+Spektrum.de,Spektrum.de,ORG,0.0,0.0,de,1.0
+Rio Tinto Lithium,Rio Tinto Lithium,ORG,0.35,0.0,de,1.0
+Energy Sharing,Energy Sharing,ORG,0.0,0.0,de,1.0
+Nachse…,Nachse…,ORG,0.7,0.0,de,1.0
+deutschen Energiemarktes,deutschen Energiemarktes,ORG,0.0,0.0,de,1.0
+ge…,ge…,ORG,0.0,0.0,de,1.0
+Chinas,Chinas,ORG,0.0,0.0,de,1.0
+Z…,Z…,ORG,-1.0,0.0,de,1.0
+die Grünen,die Grünen,ORG,0.0,0.0,de,1.0
+Ausbauziel…,Ausbauziel…,ORG,0.0,0.0,de,1.0
+DHL-Konzern,DHL-Konzern,ORG,0.0,0.0,de,1.0
+sp…,sp…,ORG,0.35,0.0,de,1.0
+Sipa USA,Sipa USA,ORG,0.0,0.0,de,1.0
+China Ländern …,China Ländern …,ORG,0.0,0.0,de,1.0
+UNICEF-Studie,UNICEF-Studie,ORG,0.0,0.0,de,1.0
+Online-Magazin,Online-Magazin,ORG,-0.7,0.0,de,1.0
 Somme…,Somme…,ORG,0.0,0.0,de,1.0
 Northvolt,Northvolt,ORG,0.0,0.0,de,1.0
 Universität Tokio,Universität Tokio,ORG,0.0,0.0,de,1.0
 Humboldt-Universität,Humboldt-Universität,ORG,0.0,0.0,de,1.0
-Budget Thuis,Budget Thuis,ORG,0.0,0.0,de,1.0
-Deutsche Allianz Klimawandel und Gesundheit,Deutsche Allianz Klimawandel und Gesundheit,ORG,-0.7,0.0,de,1.0
+Spitzenwert…,Spitzenwert…,ORG,0.0,0.0,de,1.0
+KOMMENTAR,KOMMENTAR,ORG,0.0,0.0,de,1.0
+Landesverteidigu…,Landesverteidigu…,ORG,0.0,0.0,de,1.0
+LumenHaus,LumenHaus,ORG,0.0,0.0,de,1.0
+MUNICH,MUNICH,ORG,0.0,0.0,de,1.0
 En…,En…,ORG,0.0,0.0,de,1.0
+Universität Stanford,Universität Stanford,ORG,0.0,0.0,de,1.0
+Sa…,Sa…,ORG,-1.0,0.0,de,1.0
+Freien Wählern,Freien Wählern,ORG,0.7,0.0,de,1.0
+Landg…,Landg…,ORG,0.7,0.0,de,1.0
+Offshore-Branche,Offshore-Branche,ORG,0.0,0.0,de,1.0
+Schweizer AKWs,Schweizer AKWs,ORG,0.0,0.0,de,1.0
+Infratest d…,Infratest d…,ORG,0.0,0.0,de,1.0
+ARD-Deutschlandtrend,ARD-Deutschlandtrend,ORG,0.0,0.0,de,1.0
+Berliner Bürokratie-Irrsinn,Berliner Bürokratie-Irrsinn,ORG,0.0,0.0,de,1.0
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1.0
+AMOC-Strömung,AMOC-Strömung,ORG,0.0,0.0,de,1.0
+TU Wien,TU Wien,ORG,0.0,0.0,de,1.0
+Klimakrise,Klimakrise,ORG,0.0,0.0,de,1.0
+pi…,pi…,ORG,0.0,0.0,de,1.0
+MÜNCHEN,MÜNCHEN,ORG,0.0,0.0,de,1.0
+Budget Thuis,Budget Thuis,ORG,0.0,0.0,de,1.0
+Hitzewe…,Hitzewe…,ORG,0.0,0.0,de,1.0
+Deutsche Allianz Klimawandel und Gesundheit,Deutsche Allianz Klimawandel und Gesundheit,ORG,-0.7,0.0,de,1.0
 wic…,wic…,ORG,1.0,0.0,de,1.0
 G…,G…,ORG,0.0,0.0,de,1.0
 AMA-Transparenzdatenbank,AMA-Transparenzdatenbank,ORG,0.0,0.0,de,1.0
 EU-Fördergeldern,EU-Fördergeldern,ORG,0.0,0.0,de,1.0
-MÜNCHEN,MÜNCHEN,ORG,0.0,0.0,de,1.0
-pi…,pi…,ORG,0.0,0.0,de,1.0
+Solarmodule,Solarmodule,ORG,1.0,0.0,de,1.0
+ZDF-Meteorologe Özden Terli,ZDF-Meteorologe Özden Terli,ORG,0.0,0.0,de,1.0
+University of Roches…,University of Roches…,ORG,0.0,0.0,de,1.0
+GEO,GEO,ORG,1.0,0.0,de,1.0
+Rheinland-Pfalz  +++  ,Rheinland-Pfalz  +++  ,ORG,0.0,0.0,de,1.0
+Live…,Live…,ORG,0.0,0.0,de,1.0
 EU-Land,EU-Land,ORG,0.0,0.0,de,1.0
-Münch Energie,Münch Energie,ORG,0.0,0.0,de,1.0
+Uni Klagenfurt,Uni Klagenfurt,ORG,0.0,0.0,de,1.0
+Verb…,Verb…,ORG,0.0,0.0,de,1.0
+ÖV,ÖV,ORG,0.0,0.0,de,1.0
