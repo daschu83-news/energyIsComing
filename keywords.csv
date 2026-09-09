@@ -3,12 +3,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,1,0.8115991988342531
 'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
-'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.6902003000000001
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.66280003
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
+'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.589370555
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
-'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.49376026851249993
+'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4937602685124999
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
