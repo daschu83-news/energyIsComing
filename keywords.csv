@@ -20,7 +20,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,3,0.1991319671621288
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1937353691484068
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.19058653875928527
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1905865387592852
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
@@ -34,4 +34,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1535806397050337
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1249913092656595
-'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.0999551435828203
+'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.08511188704539725
