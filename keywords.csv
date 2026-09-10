@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
-'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.589370555
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.5638300705
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
+'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.50351525675
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4937602685124999
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
