@@ -5,6 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
+'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.6075744562875811
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.5638300705
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
 'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.50351525675
@@ -34,4 +35,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1535806397050337
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
-'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.71249913092656595
