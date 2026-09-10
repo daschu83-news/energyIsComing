@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.8511188704539725
-'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,1,0.8115991988342531
 'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
+'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
