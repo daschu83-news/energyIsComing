@@ -1,6 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.8511188704539725
+'Dunkelflaute',de,Energiewende,#88ff88,#88ff88,1,0.8149684502236308
 'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
+'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.7236010548858766
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
@@ -13,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.479705604925
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.33227758870692325
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3322775887069232
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2517783305453852
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
@@ -34,4 +35,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1621485729453924
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1535806397050337
-'Dunkelflaute',de,Energiewende,#88ff88,#88ff88,1,0.81496845022363086
