@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.479705604925
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.3111500690669685
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.33227758870692325
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2517783305453852
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
@@ -32,6 +32,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.16214857294539242
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1621485729453924
 'fossile Subventionen Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1535806397050337
 'Dunkelflaute Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1496845022363086
