@@ -2,6 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.71433215
+'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.6935043993749278
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.615060896652995
@@ -34,4 +35,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1621485729453924
-'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.81535806397050337
