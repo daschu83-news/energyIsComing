@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4937602685124999
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
-'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.479705604925
 'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.4303882382374999
 'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.4270561300286276
+'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.40804979418625
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3777992551801107
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3777242731570205
@@ -33,5 +33,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1656700513412904
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1514690218922877
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.13797630200358355
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1379763020035835
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1337223524821548
