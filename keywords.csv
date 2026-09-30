@@ -3,8 +3,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
-'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.6098831075
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
+'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,3,0.5215514663749999
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4937602685124999
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
 'Lithium Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3777992551801107
 'Dunkelflaute',de,Energiewende,#88ff88,#88ff88,1,0.3693947909511478
-'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.36314772552433344
+'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.3631477255243334
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.3210656321834674
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2517783305453852
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.240475598340752
