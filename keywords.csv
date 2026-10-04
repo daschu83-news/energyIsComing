@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.79935006
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
+'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.680497656
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
@@ -27,7 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1814405910684791
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1764858684304617
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.17429867530119333
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.1742986753011933
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,2,0.1692630870878094
