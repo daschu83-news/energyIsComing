@@ -20,7 +20,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
 'Klimaextreme Klimawandel',de,Klimaextreme,#0000ff,#0000ff,2,0.2101041742076703
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.2047042885896392
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1937353691484068
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
@@ -28,6 +27,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1814405910684791
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1764858684304617
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.17429867530119333
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
 'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,2,0.1692630870878094
