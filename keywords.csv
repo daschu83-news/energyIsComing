@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
-'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.680497656
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
+'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.5793230976
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
