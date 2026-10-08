@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.680150015
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
-'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.5793230976
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
+'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.49332472296
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.4874961043647727
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,2,0.4873230137232142
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.4196962282356249
@@ -34,4 +34,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1514690218922877
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1408197986400968
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1337223524821548
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.09996540594758901
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.099965405947589
