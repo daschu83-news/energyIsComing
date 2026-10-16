@@ -16,11 +16,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3032305249002389
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,3,0.2517783305453852
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
-'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.2243258527001312
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Windkraft Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.2026370035185741
 'Solaranlagen Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.1937353691484068
+'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.1914270497951115
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
 'Wasserversorgung Klimawandel',de,Wasserversorgung,#ffffff,#ffffff,2,0.1871170669790395
 'Wärmewende',de,Waermewende,#ffff00,#ffff00,1,0.1844543241316996
@@ -33,5 +33,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1514690218922877
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1408197986400968
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1144140746098315
-'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.10742708755684527
+'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.1074270875568452
 'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.072502533547133
