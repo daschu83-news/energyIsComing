@@ -27,10 +27,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Netzausbau Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1764858684304617
 'Industrie Klimawandel',de,Industrie,#000000,#000000,2,0.1707173632890979
 'Stromspeicher Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1705313343910755
-'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,2,0.1692630870878094
-'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.16361308232584476
+'fossile Subventionen',de,Energiewende,#88ff88,#88ff88,1,0.1636130823258447
 'erneuerbare Energien Energiewende',de,Energiewende,#88ff88,#88ff88,2,0.1542252074082072
 'Wasserstoff Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1514690218922877
+'Gesundheit Klimawandel',de,Gesundheit,#ff8888,#ff8888,2,0.144624194024638
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1408197986400968
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1144140746098315
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.1074270875568452
