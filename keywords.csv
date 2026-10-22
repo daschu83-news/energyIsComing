@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Balkonkraftwerk',de,Energiewende,#88ff88,#88ff88,2,0.7193569185545696
 'Biogas',de,Energiewende,#88ff88,#88ff88,1,0.6623123639999999
 'Batteriespeicher',de,Energiewende,#88ff88,#88ff88,3,0.5230811558737499
-'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.420376134516
 'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.418468955136875
 'Kernfusion',de,Energiewende,#88ff88,#88ff88,1,0.414225011664732
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.3837907809769642
@@ -10,7 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Verkehrswende',de,Verkehrswende,#8888ff,#8888ff,2,0.3774221652059374
 'Dunkelflaute',de,Energiewende,#88ff88,#88ff88,1,0.3693947909511478
 'Batterieproduktion',de,Energiewende,#88ff88,#88ff88,1,0.3665800775018749
-'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.35895210465354827
+'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.3589521046535482
+'Bioenergie',de,Energiewende,#88ff88,#88ff88,1,0.3583698343386
 'Geoengineering',de,Geo_Engineering,#00ffff,#00ffff,1,0.3469923400583125
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3032305249002389
 'Urbane Hitzeinsel',de,Urbane_Hitzeinsel,#ff00ff,#ff00ff,1,0.2729057873559473
