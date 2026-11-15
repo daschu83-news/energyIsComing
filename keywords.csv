@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'fossile Brennstoffe',de,Energiewende,#88ff88,#88ff88,2,0.305559828955516
 'Spitzenlast Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.3032305249002389
 'Ökologie Klimawandel',de,Oekologie,#88ffff,#88ffff,1,0.2788264930058565
-'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.2571422620734332
 'Klimawandel',de,Klimawandel,#ff0000,#ff0000,3,0.2371006373278845
 'Verbrenner-Aus Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.2214692006221303
+'Batteriegroßspeicher',de,Energiewende,#88ff88,#88ff88,1,0.21872093776241822
 'Landwirtschaft Klimawandel',de,Landwirtschaft,#00ff00,#00ff00,2,0.2140125109635774
 'Energiewende',de,Energiewende,#88ff88,#88ff88,3,0.2056923524584981
 'Energiewende Klimawandel',de,Energiewende,#ff88ff,#ff88ff,1,0.1898437218694051
@@ -34,4 +34,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gaskraftwerke Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.1408197986400968
 'Kernkraft Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.0980020384183567
 'Tipping Points Klimawandel',de,Tipping_Points,#ffff88,#ffff88,1,0.0777660857598206
-'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.04506154700213297
+'Fracking Energiewende',de,Energiewende,#88ff88,#88ff88,1,0.0450615470021329
